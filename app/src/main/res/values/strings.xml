@@ -1,0 +1,68 @@
+<resources>
+    <!-- App Bar -->
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="menu_back">Back</string>
+    <string name="cd_save_note">Save note</string>
+
+    <!-- Hints -->
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Write something...</string>
+
+    <!-- Messages -->
+    <string name="empty_note_message">Note cannot be empty</string>
+    <string name="note_saved_message">Note saved</string>
+    //content hint
+    <string name="content_hint">Content</string>
+    <string name="note_not_found">Note not found</string>
+
+    <string name="notes_title">Notes</string>
+    <string name="archive_title">Archive</string>
+    <string name="app_name">FocusNotes</string>
+    <string name="notes_header_image_content_description">FocusNotes Logo</string>
+
+    <!-- Filtering Labels -->
+    <string name="label_all_notes">All Notes</string>
+    <string name="label_pinned">Pinned</string>
+    <string name="label_unpinned">Unpinned</string>
+
+    <!-- Empty States -->
+    <string name="no_notes_all">You have no notes!</string>
+    <string name="no_notes_pinned">You have no pinned notes!</string>
+    <string name="no_notes_unpinned">You have no unpinned notes!</string>
+
+    <!-- Snackbar Messages -->
+    <string name="successfully_added_note_message">Note added</string>
+    <string name="successfully_saved_note_message">Note updated</string>
+    <string name="successfully_deleted_note_message">Note deleted</string>
+
+    <!-- Errors -->
+    <string name="loading_notes_error">Error loading notes</string>
+    <string name="no_notes_image_content_description">"No notes "</string>
+
+
+
+
+    <string name="filter_all_notes">Filter all notes\n</string>
+    <string name="filter_starred_notes">Filter starred notes</string>
+    <string name="filter_notes">Filter\n</string>
+    <string name="label_starred_notes">Starred notes</string>
+    <string name="no_notes_starred">You have no starred notes</string>
+
+
+    <string name="nav_active_notes">Active Notes</string>
+    <string name="nav_archived_notes">Archived Notes</string>
+
+    <string name="show_starred_notes">Show Starred Notes</string>
+    <string name="show_all_notes">Show All Notes</string>
+
+    <string name="menu_filter">Filter</string>
+    <string name="nav_all_notes">All Notes</string>
+    <string name="nav_starred_notes">Starred Notes</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="refresh_notes">Refresh notes</string>
+    <string name="all_notes">All notes\n</string>
+    <string name="starred_notes">Starred Notes</string>
+
+
+</resources>
