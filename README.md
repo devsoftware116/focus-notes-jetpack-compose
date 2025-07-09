@@ -16,7 +16,7 @@ This project is a complete implementation of:
 
 This app was built as part of my **free Udemy course** on modern Android development with Jetpack Compose.
 
-👉 [Android App Development with Kotlin & Jetpack Compose – Free on Udemy](https://www.udemy.com/course/android-app-development-with-kotlin-jetpack-compose/?couponCode=JETPACKBLAST)
+👉 [Android App Development with Kotlin & Jetpack Compose – Free on Udemy](https://www.udemy.com/course/android-app-development-with-kotlin-jetpack-compose/?couponCode=E152652F8850E13D48DB)
 
 The course walks you through:
 - Kotlin basics for Android
